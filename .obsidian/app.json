@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "00 System/Attachments",
+  "newFileLocation": "current",
+  "promptDelete": true,
+  "readableLineLength": false,
+  "showInlineTitle": true,
+  "strictLineBreaks": false,
+  "tabSize": 2,
+  "trashOption": "local"
+}
