@@ -1,0 +1,5 @@
+# Machine-local Obsidian state should not sync between Linux and macOS.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/.trash
